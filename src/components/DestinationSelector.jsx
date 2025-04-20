@@ -24,7 +24,7 @@ const DestinationSelector = ({ tours, onSelectDestination }) => { //This compone
           </option>
         ))}
       </select>
-    </div>
+    </div> //This is the dropdown menu for selecting a destination
   );
 };
 
